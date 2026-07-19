@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 180 40" fill="none">
+  <polygon points="14,5 24,20 14,35 4,20" fill="none" stroke="#F87171" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="14" cy="20" r="3" fill="#F87171"/>
+  <text x="32" y="27" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Brand Five</text>
+</svg>

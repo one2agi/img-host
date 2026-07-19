@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 180 40" fill="none">
+  <circle cx="14" cy="20" r="12" fill="none" stroke="#A78BFA" stroke-width="3"/>
+  <circle cx="14" cy="20" r="4" fill="#A78BFA"/>
+  <text x="34" y="27" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Brand Two</text>
+</svg>
